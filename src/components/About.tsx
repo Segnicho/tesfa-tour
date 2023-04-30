@@ -1,10 +1,9 @@
-import React from "react";
 import flight from "../assets/about.png";
 
 const About = () => {
   return (
     <div id="about" className="flex justify-between gap-2 pt-5">
-      <div>
+      <div className="flex flex-col">
         <h1>
           Get Started your exciting <span>journey</span> with us.
         </h1>

@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import { Navbar, Footer, About, Tour, Blogs, Destination } from "../components";
 
 const Home = () => {
