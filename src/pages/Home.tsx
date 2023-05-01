@@ -1,12 +1,13 @@
 import { BrowserRouter } from "react-router-dom";
-import { Navbar, Footer, About, Tour, Blogs, Destination } from "../components";
+import { Navbar, Footer, About, Tour, Blogs, Destination, Offerings } from "../components";
 
 const Home = () => {
   return (
     <BrowserRouter>
-      <div id="home" className="px-10">
+      <div id="home" className="px-10 bg-[#FEFCFB]">
         <Navbar />
         <About />
+        <Offerings />
         <Destination />
         <Tour />
         <Blogs />

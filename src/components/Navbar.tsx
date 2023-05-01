@@ -42,7 +42,7 @@ const Navbar:React.FC = () => {
   }
 
   return (
-    <div id="home" className="flex justify-between py-5 px-10 border-b shadow-sm sticky top-0 bg-white opacity-100 z-50">
+    <div id="home" className="flex justify-between py-5 px-10 border-b shadow-sm sticky top-0 bg-[#FEFCFB] opacity-100 z-50">
       <Link to="/" className="flex-2 font-semibold font-poppins text-xl pt-2 cursor-pointer ">Tesfa-Tour</Link>
       <div className="flex-3 flex gap-5">
         <ul className="flex gap-10 pt-2 pr-4">
