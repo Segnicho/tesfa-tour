@@ -6,6 +6,8 @@ import Subscribe from "./Subscribe"
 import Tour from "./Tour"
 import Destination from "./Destination"
 import Offerings from "./Offerings"
+import Booking from "./Booking"
+import Reviews from "./reviews/Reviews"
 
 
-export  {Navbar, About, Blogs, Destination, Tour, Subscribe, Footer, Offerings }
+export  {Navbar, About, Blogs, Destination, Tour, Subscribe, Footer, Offerings, Booking, Reviews }

@@ -2,7 +2,6 @@
 
 import {AiFillStar} from 'react-icons/ai'
 
-import { axum } from '../../assets'
 import { CardProps } from '../../types/destination/card'
 
 const Card:React.FC<CardProps> = (destination) => {
