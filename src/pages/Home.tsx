@@ -1,6 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
 import { Navbar, Footer, About, Tour, Blogs, Destination, Offerings, Booking, Reviews, Subscribe } from "../components";
-
 const Home = () => {
   return (
     <BrowserRouter>
@@ -15,6 +14,7 @@ const Home = () => {
         <Blogs />
         <Subscribe />
         <Footer />
+        
       </div>
     </BrowserRouter>
   );
