@@ -4,7 +4,6 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import { BsChevronLeft, BsChevronRight } from 'react-icons/bs';
 
-import { lalibela, gonder, axum, abay } from "../assets";
 
 
 const settings = {
@@ -28,7 +27,7 @@ const settings = {
       <ul style={{ margin: '0' }}> {dots} </ul>
     </div>
   ),
-  customPaging: (i: any) => (
+  customPaging: () => (
     <div
       style={{
         width: '30px',

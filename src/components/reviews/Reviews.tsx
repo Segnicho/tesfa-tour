@@ -1,4 +1,3 @@
-import React from 'react'
 import Card from './Card'
 import { Review } from '../../types/review/Review'
 import { reviewer1, reviewer2, reviewer3 } from '../../assets'

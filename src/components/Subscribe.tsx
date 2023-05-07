@@ -1,4 +1,3 @@
-import { AiOutlineMail } from "react-icons/ai"
 
 const Subscribe = () => {
   return (

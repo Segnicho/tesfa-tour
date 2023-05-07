@@ -1,8 +1,7 @@
-import React from "react";
 import plane from "../assets/plane.png";
 import Card from "./offerings/Card";
 import { CardProps } from "../types/offerings/card";
-import { pack,plan, insurance } from "../assets";
+import { pack, plan, insurance } from "../assets";
 import Slider from "react-slick";
 
 const offerings: CardProps[] = [

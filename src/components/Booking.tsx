@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsArrowLeftCircle , BsArrowRightCircle} from 'react-icons/bs'
 import { child, girl, landscape } from '../assets' 
 

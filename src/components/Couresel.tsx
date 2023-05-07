@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsArrowLeftCircle , BsArrowRightCircle} from 'react-icons/bs'
 import { Carousel } from 'react-responsive-carousel';
 import 'slick-carousel/slick/slick.css';

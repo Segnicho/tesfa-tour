@@ -1,5 +1,4 @@
 import React from 'react'
-import pack from '../../assets/offerings/package.png'
 import { CardProps } from '../../types/offerings/card'
 
 
